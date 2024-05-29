@@ -5,7 +5,7 @@ Meu nome é Isabelle Rocha💮
 Sou aluna do 3 ano do Ensino Medio. 🏫
 
 
-- Estou estudando no [Alura] 
+- Estou estudando no (https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Uso esse espaço para compartilhar meus projetos já desenvolvidos.
 
